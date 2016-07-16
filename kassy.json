@@ -1,0 +1,10 @@
+{
+	"name": "shutdown",
+	"version": 2.0,
+	"startup": "shutdown.js",
+	"priority": "first",
+	"command": "shutdown",
+	"help": [
+		["{{commandPrefix}}shutdown", "Shuts down the bot", "Shuts down the bot extended"]
+	]
+}
